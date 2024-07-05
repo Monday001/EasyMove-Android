@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EasyMove</string>
+    <string name="username">username</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="signuphere">signuphere</string>
+    <string name="signup">signup</string>
+    <string name="email">email</string>
+    <string name="loginhere">loginhere</string>
+    <string name="LOGIN">LOGIN</string>
+    <string name="new_member_signup">New member, Signup..</string>
+    <string name="Register">Register</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="existing_member_sign_in">Existing member ,sign in..</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="or_connect">Or connect</string>
+    <string name="location_from">Location</string>
+    <string name="SEND">SEND</string>
+    <string name="location_to">Destination</string>
+</resources>

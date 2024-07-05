@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674873914294",
+    "project_id": "authentication-90501",
+    "storage_bucket": "authentication-90501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674873914294:android:446bdbaffaed3f7f840717",
+        "android_client_info": {
+          "package_name": "com.brian.easymove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674873914294-ht9srmdh2efclhcqh3rlube35a704lcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzj-_3GmZVMjOy4ZyBvQLo_5hZ3jvCEHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674873914294-ht9srmdh2efclhcqh3rlube35a704lcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
